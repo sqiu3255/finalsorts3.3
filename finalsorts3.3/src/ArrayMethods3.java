@@ -71,7 +71,7 @@ public class ArrayMethods3 {
 		
 		return 0;
 	}
-	
+	 
 	
 	public static void swapPartition(int[]arr, int a, int b)
 	{
